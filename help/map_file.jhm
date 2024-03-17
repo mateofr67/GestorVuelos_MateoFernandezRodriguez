@@ -1,0 +1,26 @@
+<map version="1.0">
+   <mapID target="aplicacion" url="html/main.html" />
+   <mapID target="pantalla_principal" url="html/pantalla_principal.html" />
+   <mapID target="gestor_companyas" url="html/companyas/gestor.html" />
+   <mapID target="alta_companyas" url="html/companyas/alta.html" />
+   <mapID target="baja_companyas" url="html/companyas/baja.html" />
+   <mapID target="consulta_companyas" url="html/companyas/consulta.html" />
+   <mapID target="modificacion_companyas" url="html/companyas/modificacion.html" />
+  <mapID target="gestor_vuelosbase" url="html/vuelosbase/gestor.html" />
+  <mapID target="alta_vuelosbase" url="html/vuelosbase/alta.html" />
+ <mapID target="baja_vuelosbase" url="html/vuelosbase/baja.html" />
+ <mapID target="consulta_vuelosbase" url="html/vuelosbase/consulta.html" />
+ <mapID target="modificacion_vuelosbase" url="html/vuelosbase/modificacion.html" />
+  <mapID target="gestor_vuelosdiarios" url="html/vuelosdiarios/gestor.html" />
+  <mapID target="alta_vuelosdiarios" url="html/vuelosdiarios/alta.html" />
+  <mapID target="baja_vuelosdiarios" url="html/vuelosdiarios/baja.html" />
+  <mapID target="consulta_vuelosdiarios" url="html/vuelosdiarios/consulta.html" />
+  <mapID target="modificacion_vuelosdiarios" url="html/vuelosdiarios/modificacion.html" />
+ <mapID target="gestor_detallesoperativos" url="html/detallesoperativos/gestor.html" />
+ <mapID target="mostrar_aeropuertos" url="html/detallesoperativos/mostrar_aeropuertos.html" />
+<mapID target="salidas" url="html/detallesoperativos/salidas.html" />
+<mapID target="llegadas" url="html/detallesoperativos/llegadas.html" />
+<mapID target="recaudaciones" url="html/detallesoperativos/recaudaciones.html" />
+<mapID target="vuelos_companya" url="html/detallesoperativos/vuelos_companya.html" />
+<mapID target="vuelos_previstos" url="html/detallesoperativos/vuelos_previstos.html" />
+</map>

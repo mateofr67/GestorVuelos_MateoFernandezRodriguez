@@ -1,0 +1,31 @@
+<toc version="1.0">
+   <tocitem text="Manual de AeroGestor Pro" target="aplicacion">
+      <tocitem text="Pantalla principal" target="pantalla_principal">
+         <tocitem text="Gestor Compañías" target="gestor_companyas">
+             <tocitem text="Alta" target="alta_companyas"/>
+             <tocitem text="Baja" target="baja_companyas"/>
+             <tocitem text="Consulta" target="consulta_companyas"/>
+             <tocitem text="Modificación" target="modificacion_companyas"/>
+         </tocitem>
+         <tocitem text="Gestor Vuelos Base" target="gestor_vuelosbase">
+             <tocitem text="Alta" target="alta_vuelosbase"/>
+             <tocitem text="Baja" target="baja_vuelosbase"/>
+             <tocitem text="Consulta" target="consulta_vuelosbase"/>
+             <tocitem text="Modificación" target="modificacion_vuelosbase"/>
+         </tocitem>
+         <tocitem text="Gestor Vuelos Diarios" target="gestor_vuelosdiarios">
+             <tocitem text="Alta" target="alta_vuelosdiarios"/>
+             <tocitem text="Baja" target="baja_vuelosdiarios"/>
+             <tocitem text="Consulta" target="consulta_vuelosdiarios"/>
+             <tocitem text="Modificación" target="modificacion_vuelosdiarios"/>
+         </tocitem>
+         <tocitem text="Detalles Operativos" target="gestor_detallesoperativos">
+             <tocitem text="Mostrar Aeropuertos" target="mostrar_aeropuertos"/>          
+             <tocitem text="Salidas" target="salidas"/>
+             <tocitem text="Llegadas" target="llegadas"/>
+             <tocitem text="Recaudaciones" target="recaudaciones"/>
+             <tocitem text="Vuelos por compañía" target="vuelos_companya"/>
+             <tocitem text="Vuelos previstos" target="vuelos_previstos"/>
+      </tocitem>
+   </tocitem>
+</toc>

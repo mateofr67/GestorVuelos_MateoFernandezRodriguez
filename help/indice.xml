@@ -1,0 +1,27 @@
+<index version="1.0">
+   <indexitem text="Manual de AeroGestor Pro" target="aplicacion"/>
+   <indexitem text="Pantalla principal" target="pantalla_principal"/>
+   <indexitem text="Gestor de Compañías" target="gestor_companyas"/> 
+   <indexitem text="Alta de Compañías" target="alta_companyas"/> 
+   <indexitem text="Baja de Compañías" target="baja_companyas"/> 
+   <indexitem text="Consulta de Compañías" target="consulta_companyas"/> 
+   <indexitem text="Modificacion de Compañías" target="modificacion_companyas"/> 
+  <indexitem text="Gestor de Vuelos Base" target="gestor_vuelosbase"/> 
+   <indexitem text="Alta de Vuelos Base" target="alta_vuelosbase"/> 
+   <indexitem text="Baja de Vuelos Base" target="baja_vuelosbase"/> 
+   <indexitem text="Consulta de Vuelos Base" target="consulta_vuelosbase"/> 
+   <indexitem text="Modificacion de Vuelos Base" target="modificacion_vuelosbase"/> 
+  <indexitem text="Gestor de Vuelos Diarios" target="gestor_vuelosdiarios"/> 
+   <indexitem text="Alta de Vuelos Diarios" target="alta_vuelosdiarios"/> 
+   <indexitem text="Baja de Vuelos Diarios" target="baja_vuelosdiarios"/> 
+   <indexitem text="Consulta de Vuelos Diarios" target="consulta_vuelosdiarios"/> 
+   <indexitem text="Modificacion de Vuelos Diarios" target="modificacion_vuelosdiarios"/> 
+  <indexitem text="Detalles Operativos" target="gestor_detallesoperativos"/> 
+   <indexitem text="Mostrar Aeropuertos" target="mostrar_aeropuertos"/> 
+   <indexitem text="Salidas" target="salidas"/> 
+   <indexitem text="Llegadas" target="llegadas"/> 
+   <indexitem text="Recaudaciones" target="recaudaciones"/> 
+   <indexitem text="Vuelos por Compañía" target="vuelos_companya"/> 
+   <indexitem text="Vuelos Previstos" target="vuelos_previstos"/> 
+
+</index>
